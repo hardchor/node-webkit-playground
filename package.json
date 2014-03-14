@@ -1,0 +1,23 @@
+{
+  "name": "node-webkit-playground",
+  "version": "0.0.0",
+  "description": "node-webkit-playground ======================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hardchor/node-webkit-playground.git"
+  },
+  "author": "Burkhard Reffeling",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/hardchor/node-webkit-playground/issues"
+  },
+  "homepage": "https://github.com/hardchor/node-webkit-playground",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-node-webkit-builder": "^0.1.17"
+  }
+}
