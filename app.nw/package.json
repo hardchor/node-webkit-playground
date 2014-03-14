@@ -1,0 +1,13 @@
+{
+    "name":        "tst",
+    "description": "The best project ever.",
+    "version":     "0.1.0",
+    "homepage":    "http://m.skypoker.com",
+    "author":   "Burkhard Reffeling",
+    "license":  "GPL",
+    "main":     "index.html",
+    "engines":  {
+        "node": ">= 0.8.0"
+    },
+    "keywords": []
+}

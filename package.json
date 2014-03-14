@@ -2,7 +2,7 @@
   "name": "node-webkit-playground",
   "version": "0.0.0",
   "description": "node-webkit-playground ======================",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
